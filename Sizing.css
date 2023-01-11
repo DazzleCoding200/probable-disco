@@ -1,0 +1,49 @@
+.img1 {
+    width: 1400px;
+    height: 90px;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+.img2 {
+    width: 120px;
+    height: 120px;
+    margin-left: 20px;
+    margin-top: -120px;
+}
+.img3 {
+    width: 120px;
+    height: 120px;
+    margin-left: 1050px;
+    margin-top: -120px;
+}
+
+.imgtekst1 {
+    width: 500px;
+    height: 350px;
+    margin-top: -590px;
+    margin-left: 100px;
+}
+.imgtekst2 {
+    width: 500px;
+    height: 350px;
+    margin-top: -590px;
+    margin-left: 100px;
+}
+.img4tekst {
+    width: 550px;
+    margin-top: -200px;
+    margin-left: 400px;
+    
+    
+    }
+.ANIM1 {
+    width: 350px;
+    margin-top: -50px;
+    margin-left: 90px;
+    border-style:solid;
+    border-color: rgb(236, 105, 30);
+    border-width: 8px;
+    
+    
+    
+        }
