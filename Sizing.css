@@ -1,6 +1,6 @@
 .img1 {
     width: 1400px;
-    height: 90px;
+    height: 120px;
     margin-left: -10px;
     margin-top: -10px;
 }
@@ -26,7 +26,7 @@
 .imgtekst2 {
     width: 500px;
     height: 350px;
-    margin-top: -590px;
+    margin-top: -600px;
     margin-left: 100px;
 }
 .img4tekst {
@@ -43,7 +43,16 @@
     border-style:solid;
     border-color: rgb(236, 105, 30);
     border-width: 8px;
-    
-    
-    
-        }
+}
+.Chainsawman {
+    width: 350px;
+    margin-top: -780px;
+    margin-left: 520px;
+}
+.img4tekst2{
+width: 500px;
+margin-top: -500px;
+margin-left: 450px;
+
+
+}
